@@ -155,3 +155,25 @@
     
 
 }
+.sidebarGo{
+    transform: translate(-443px, 0px);
+    position: absolute;
+}
+.hamburger{
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    left: 10px;
+}
+.cross{
+    margin-left: 120px;
+}
+@media (max-width: 1615px){
+    
+    /*.sidebar{
+        transform: translate(-443px, 0px);
+        position: absolute;
+    }
+        */
+    
+}
